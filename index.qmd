@@ -5,7 +5,7 @@ subtitle: "Análise dos determinantes sociais do medo do crime em Florianópolis
 
 ## Apresentação {#apresentação}
 
-Este site reúne os principais resultados do estudo Medo do crime e Insegurança: Análise dos determinantes sociais do medo do crime em Florianópolis/SC. O resumo do estudo pode ser lido abaixo, e nas abas laterais à esquerda é possível navegar pelas seções do trabalho.
+Este site reúne os principais resultados do estudo Medo do crime e Insegurança: Análise dos determinantes sociais do medo do crime em Florianópolis/SC. O resumo do estudo pode ser lido abaixo, e nas abas laterais à esquerda é possível navegar pelas seções do trabalho. O trabalho é resultado da Tese de doutorado em Sociologia e Ciência Política do pesquisador Denis Berté Sálvia, sob orientação do professor Dr. Julian Borba.
 
 ## Resumo
 

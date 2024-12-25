@@ -4,13 +4,11 @@ project:
 website: 
   page-navigation: true
   title: "Medo do Crime e Insegurança" 
-  site-url: "https://openscapes.github.io/quarto-website-tutorial" 
-  repo-url: https://github.com/openscapes/quarto-website-tutorial 
-  repo-actions: [edit, issue]
+  site-url: "https://denisberte.github.io/mdc/" 
+  repo-url: https://github.com/DenisBerte/mdc.git 
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Openscapes, 2024"
     
   sidebar:
     logo: "images/logonipp.jpg"
@@ -26,16 +24,19 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Welcome
-      - explore.qmd
-      - section: quarto-workflows/index.qmd
-        contents: 
-          - quarto-workflows/browser.md
-          - quarto-workflows/rstudio.qmd
-          - quarto-workflows/jupyter.md 
-      - learning-more.qmd
-      - href: transition-from-rmarkdown.qmd
-        text: Transition from Rmd
+        text: Apresentação
+      - href: intro.qmd
+        text: Introdução
+      - href: teoria.qmd
+        text: Teoria do medo do crime
+      - href: metodologia.qmd
+        text: Metodologia
+      - href: resultados.qmd
+        text: Resultados e Discussão
+      - href: conclusao.qmd
+        text: Conclusão
+      - href: biblio.qmd
+        text: Referências
 
 
 format:
