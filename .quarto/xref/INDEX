@@ -1,0 +1,44 @@
+{
+  "explore.qmd": {
+    "explore.html": "f151cf63"
+  },
+  "index.qmd": {
+    "index.html": "0ab4a9b0"
+  },
+  "learning-more.qmd": {
+    "learning-more.html": "dbaf92b4"
+  },
+  "quarto-workflows/browser.md": {
+    "browser.html": "e49109c4"
+  },
+  "quarto-workflows/index.qmd": {
+    "index.html": "37b5b24d"
+  },
+  "quarto-workflows/jupyter.md": {
+    "jupyter.html": "adc7def7"
+  },
+  "quarto-workflows/rstudio.qmd": {
+    "rstudio.html": "b1e5ea7d"
+  },
+  "transition-from-rmarkdown.qmd": {
+    "transition-from-rmarkdown.html": "3ba41219"
+  },
+  "intro.qmd": {
+    "intro.html": "c059b62d"
+  },
+  "teoria.qmd": {
+    "teoria.html": "b95f6c37"
+  },
+  "metodologia.qmd": {
+    "metodologia.html": "bf7eba83"
+  },
+  "resultados.qmd": {
+    "resultados.html": "e4568530"
+  },
+  "conclusao.qmd": {
+    "conclusao.html": "68ab9428"
+  },
+  "biblio.qmd": {
+    "biblio.html": "9f142843"
+  }
+}
