@@ -5,7 +5,7 @@ website:
   page-navigation: true
   title: "Medo do Crime e Insegurança" 
   site-url: "https://denisberte.github.io/mdc/" 
-  repo-url: https://github.com/DenisBerte/mdc.git 
+  repo-url: "https://github.com/DenisBerte/mdc.git"
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
@@ -38,7 +38,6 @@ website:
       - href: biblio.qmd
         text: Referências
 
-
 format:
   html:
     theme: cosmo
@@ -46,9 +45,6 @@ format:
     code-overflow: wrap
     toc: true
 
-
 filters:
   - include-files.lua
   - quarto
-
-  
