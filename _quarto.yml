@@ -3,7 +3,7 @@ project:
   
 website: 
   page-navigation: true
-  title: "Making sharable documents with Quarto" 
+  title: "Medo do Crime e Insegurança" 
   site-url: "https://openscapes.github.io/quarto-website-tutorial" 
   repo-url: https://github.com/openscapes/quarto-website-tutorial 
   repo-actions: [edit, issue]
@@ -13,19 +13,13 @@ website:
     left: "&copy; CC-By Openscapes, 2024"
     
   sidebar:
-    logo: "images/openscapes_hex.png"
+    logo: "images/logonipp.jpg"
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://openscapes.org
-        text: "Openscapes.org"
-      - icon: github
-        href: https://github.com/openscapes/quarto-website-tutorial
-        text: "Quarto website tutorial"
-      - icon: twitter
-        href: https://twitter.com/openscapes
-        text: "Openscapes Twitter"         
+        href: https://nipp.ufsc.br/
+        text: "NIPP/UFSC"
 
     style: "docked"
     search: true
