@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://denisberte.github.io/mdc/index.html</loc>
+    <lastmod>2024-12-25T23:28:40.166Z</lastmod>
+  </url>
+  <url>
     <loc>https://denisberte.github.io/mdc/teoria.html</loc>
     <lastmod>2024-12-25T23:28:40.175Z</lastmod>
   </url>
@@ -9,16 +13,12 @@
     <lastmod>2024-12-25T23:28:40.168Z</lastmod>
   </url>
   <url>
-    <loc>https://denisberte.github.io/mdc/index.html</loc>
-    <lastmod>2024-12-25T23:28:40.166Z</lastmod>
+    <loc>https://denisberte.github.io/mdc/conclusao.html</loc>
+    <lastmod>2024-12-25T23:28:40.140Z</lastmod>
   </url>
   <url>
     <loc>https://denisberte.github.io/mdc/biblio.html</loc>
     <lastmod>2024-12-25T23:28:40.139Z</lastmod>
-  </url>
-  <url>
-    <loc>https://denisberte.github.io/mdc/conclusao.html</loc>
-    <lastmod>2024-12-25T23:28:40.140Z</lastmod>
   </url>
   <url>
     <loc>https://denisberte.github.io/mdc/intro.html</loc>

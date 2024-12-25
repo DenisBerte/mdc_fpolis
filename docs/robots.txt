@@ -1,0 +1,1 @@
+Sitemap: https://denisberte.github.io/mdc/sitemap.xml
