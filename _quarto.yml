@@ -38,6 +38,8 @@ website:
         text: Conclusão
       - href: biblio.qmd
         text: Referências
+      - href: apend.qmd
+        text: Apêndices
 
 format:
   html:
