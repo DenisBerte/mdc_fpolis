@@ -2,11 +2,12 @@
 title: "Apêndices"
 ---
 
-\<style\>
+<style>
 body {
-text-align: justify;
+  text-align: justify;
 }
-\</style\>
+</style>
+
 
 # APÊNDICE A – QUESTIONÁRIO DA PESQUISA VITIMIZAÇÃO E INSEGURANÇA FLORIANÓPOLIS (2019)
 
