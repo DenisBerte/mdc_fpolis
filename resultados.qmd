@@ -2,6 +2,13 @@
 title: "Resultados e Discussão"
 ---
 
+<style>
+body {
+  text-align: justify;
+}
+</style>
+
+
 Neste capítulo serão apresentados os resultados das análises realizadas a fim de testar as hipóteses de pesquisa, os quais serão discutidos em relação ao conjunto teórico apresentado. A questão geral a ser respondida paralelamente às hipóteses e após os testes é: a insegurança social, tal como caracterizada neste estudo, é um elemento importante ao estudo do MDC?
 
 Começaremos com um breve contexto da pesquisa, apresentando a cidade de Florianópolis/SC em relação ao tema da violência e insegurança. Depois, retomamos a apresentação das hipóteses de estudo e dos resultados esperados, tal como apresentado no Capítulo 1. Em seguida, tem-se a descrição das variáveis utilizadas, o resultado discussão da regressão linear e, por fim, discutiremos os *outputs* das modelagens de equações estruturais.^[\[1\]](#_ftn1)^
@@ -12,7 +19,7 @@ Agora trataremos a respeito da cidade em que este estudo foi realizado, Florian�
 
 Santa Catarina por anos esteve entre os estados com a menor taxa de homicídios do país, e em 2010 figurou com a menor taxa do Brasil. Agora, em 2024, novamente o estado figurou como o mais seguro do Brasil[\[3\]](#_ftn3), e Florianópolis como a capital mais segura do país, com a menor taxa de homicídios por 100 mil habitantes[\[4\]](#_ftn4). No entanto, entre as demais cidades de Santa Catarina com mais de 100 mil habitantes, Florianópolis ocupou a oitava posição entre as mais violentas de 2024, considerando a taxa de homicídios[\[5\]](#_ftn5).
 
- Porém, a taxa bruta diz pouco sobre a realidade da violência letal no estado, por um lado, porque oculta a trajetória de crescimento do indicador no estado desde os anos 80 e, por outro, porque não esclarece as várias desigualdades municipais e societais ligadas ao fenômeno dos homicídios (Monteiro, 2021).
+Porém, a taxa bruta diz pouco sobre a realidade da violência letal no estado, por um lado, porque oculta a trajetória de crescimento do indicador no estado desde os anos 80 e, por outro, porque não esclarece as várias desigualdades municipais e societais ligadas ao fenômeno dos homicídios (Monteiro, 2021).
 
 Em 2017, Florianópolis superou o recorde de registro de homicídios alcançado pelo país em 2016, registrando 30,3 homicídios para cada cem mil habitantes, uma das taxas mais altas do Brasil (Monteiro, 2019). Uma das características peculiares desse tipo extremo de violência na cidade é a alta concentração espacial. Entre 2011 e 2017, 50% dos homicídios e roubos de rua ocorridos na cidade se deram em 0,4% e 1,3% dos segmentos de rua da cidade, respectivamente. Além de desigualmente distribuído, com alta concentração criminal em poucos espaços, há estabilidade dessa distribuição no intervalo de tempo estudado, em relação aos crimes de roubo de rua e homicídios entre 2011 e 2017.
 
@@ -66,13 +73,13 @@ Cada um dos três modelos foi estimado pelo método *Stepwise* a partir da inser
 
 No Modelo 1 (Casos de vitimização) foi inserida a variável vitimização de si e/ou vicária, de tipo *dummy*, sendo a variável de referência as ‘vítimas’. No Modelo 2 (Desorganização social) foram inseridos dois construtos criados com ACP, desordens e coesão social. O Modelo 3 (Vulnerabilidades sociodemográficas) adicionou variáveis referentes a sexo/gênero, cor/raça e idade. As três variáveis são binárias e as categorias de referência são feminino, cor não branca e mais velhos. No Modelo 4 (Insegurança social) foram adicionados dois construtos resultantes da ACP, percepção de desprezo social e visão negativa sobre o futuro. Por último, a fim de verificar relações recíprocas entre os elementos do medo do crime, no Modelo 5 foram adicionadas os outros dois elementos do MDC, porém, como variáveis preditoras. Estão em sua escala transformada por Box-Cox.
 
-Abaixo, Gráfico 1 apresenta-se o gráfico de valores observados e preditos da variável MDC emocional em sua escala transformada por Box-Cox. Na Tabela 3, apresenta-se os preditores do elemento emocional do medo do crime (insegurança ao andar sozinho(a) no bairro, à noite).
+Abaixo, no Gráfico 1 apresenta-se o gráfico de valores preditos da variável MDC emocional em sua escala transformada por Box-Cox, em relação às duas dimensões da insegurança social. 
 
-Gráfico 1 – Valores observados e preditos da variável MDC emocional
+Gráfico 1 – Valores preditos da variável MDC emocional
 
 ![](images/grafico1.jpeg)
 
-Pelo gráfico nota-se a presença de outliers e de certa dispersão, especialmente nos extremos da distribuição. No entanto a linha de ajuste parece seguir a tendência dos dados, e o teste de *Breusch-Pagan* indicou ausência de heterocedasticidade[\[7\]](#_ftn7).
+Pelo gráfico nota-se ausência de relação entre MDC emocional e percepção de exclusão social, e uma relação positiva e bem clara entre MDC emocional e a variável preocupação com futuro. Nos dois casos o intervalo de confiança é bem estreito, mostrando uma relação bem definida em dado intervalo de confiança. Na Tabela 3, apresenta-se os preditores do elemento emocional do medo do crime (insegurança ao andar sozinho(a) no bairro, à noite).
 
 Tabela 3 – Resultados das regressões lineares realizadas para os preditores do MDC, elemento emocional (insegurança ao andar sozinho(a) no bairro, à noite (n=538)
 
@@ -92,13 +99,13 @@ Por fim, no Modelo 5 nota-se a importância dos demais elementos do MDC para o m
 
 Em um resumo geral, vitimização, desordens e coesão, vulnerabilidades de sexo e cor, ansiedade sobre o futuro, e os demais elementos do medo mostraram-se como importantes preditores do elemento emocional do MDC. Cabe apontar que esse conjunto de regressões é revelador de algumas correlações presentes na literatura sobre o tema do MDC e sua relação com vitimização. Embora o sexo tenha se mostrado um preditor do medo emocional, isso pode não ser devido à vitimização, já que o número de mulheres vítimas é apenas 3% maior que homens. Pessoas de cor não-branca foram vítimas tanto quanto as brancas e, entre as vítimas, os mais novos são 10% mais vítimas que os mais velhos. Isso revela a independência relativa entre crime e medo, e reforça o peso do contexto, das vulnerabilidades a da “ansiedade difusa” sobre o elemento emocional do MDC.
 
-Abaixo, Gráfico 2 apresenta-se o gráfico de valores observados e preditos da variável MDC cognitivo em sua escala transformada por Box-Cox. Na Tabela 4, apresenta-se os resultados das regressões lineares com o elemento cognitivo do medo como variável dependente.
+Abaixo, no Gráfico 2 apresenta-se o gráfico de valores preditos da variável MDC cognitivo em sua escala transformada por Box-Cox em relação à insegurança social (duas subdimensões). 
 
-Gráfico 2 – Valores observados e preditos da variável MDC cognitivo
+Gráfico 2 – Valores preditos da variável MDC cognitivo
 
 ![](images/grafico2.jpeg)
 
-O gráfico mostra que a linha de ajuste linear parece seguir a tendência dos dados, com menos outliers e menor dispersão que o elemento emocional apresentado anteriormente. Também não foi detectada heterocedasticidade na distribuição.
+O gráfico de regressão mostra um resultado muito parecido que o encontrado anteriormente com o MDC emocional, com apenas uma subdimensão bem relacionada ao MDC e com os termos de erro bem definidos. Na Tabela 4, apresenta-se os resultados das regressões lineares com o elemento cognitivo do medo como variável dependente.
 
 Tabela 4 – Resultados das regressões lineares realizadas para os Preditores do MDC, elemento cognitivo (frequência da insegurança no bairro) (n=538)
 
@@ -116,13 +123,15 @@ O último bloco de variáveis preditoras foi adicionado no Modelo 5 e tanto o el
 
 Esse segundo conjunto de regressões abordou os preditores do aspecto cognitivo do medo (frequência de insegurança no bairro) e pôde-se verificar a importância da vitimização, do contexto quanto às desordens e incivilidades, da ansiedade difusa e dos demais elementos do medo (emocional e comportamental) sobre a frequência de insegurança no bairro. A seguir apresenta-se o último conjunto de regressões lineares, o qual tem como variável dependente o aspecto comportamental do MDC.
 
-No Gráfico 3 a seguir apresenta-se o gráfico de valores observados e preditos da variável MDC comportamental em sua escala transformada por Box-Cox. Na Tabela 5 são apresentados os efeitos dos preditores sobre o elemento comportamental do MDC, que representa a frequência que as pessoas alteram rotinas ou mudam planos para evitar situações que as deixam inseguras em seus bairros de moradia.
+No Gráfico 3 a seguir apresenta-se o gráfico de valores preditos da variável MDC comportamental em sua escala transformada por Box-Cox, em relação às duas dimensões da Insegurança Social.
 
 Gráfico 3 – Valores observados e preditos da variável MDC comportamental
 
 ![](images/grafico3.jpeg)
 
-Nota-se pelo Gráfico 3 que há bastante dispersão em torno da linha de ajuste, e embora seja visível a tendência linear entre os dados observados e os preditos, algumas áreas da distribuição parecem problemáticas com muita dispersão e pontos bem afastados da linha de ajuste. Mesmo assim, não foi detectada heterocedasticidade (ver Apêndice E).
+Nota-se pelo Gráfico 3 que mais uma vez a variável Preocupação com o futuro relaciona-se de maneira positiva com o MDC, com a diferença que a Percepção de exclusão também apresenta esse resultado em relação ao MDC comportamental. Somente  a medida de MDC comportamental apresentou relação positiva com os dois elementos da Insegurança social.
+
+Na Tabela 5 são apresentados os efeitos dos preditores sobre o elemento comportamental do MDC, que representa a frequência que as pessoas alteram rotinas ou mudam planos para evitar situações que as deixam inseguras em seus bairros de moradia.
 
 Tabela 5 – Resultados das regressões lineares realizadas para os preditores do MDC, elemento comportamental (frequência de mudança de rotina devido à insegurança) (n=538)
 
@@ -148,7 +157,9 @@ Legenda: + : relação significativa positiva; - : relação significativa negat
 
 Como se pode observar, a vitimização mostrou efeito positivo sobre os três elementos do MDC, mais presente em relação ao elemento cognitivo, no emocional, e por último no comportamental. A vitimização perde significância no modelo emocional quando são inseridos os outros elementos do medo, e no modelo comportamental a vitimização não produz efeito frente a inclusão das variáveis de insegurança social e os demais elementos.
 
-As regressões reforçam achados de outros estudos que indicam que a vitimização, direta ou indireta, terá algum impacto sobre a insegurança (Dammert; Tobar, 2018; Farrall; Gray; Jackson, 2007; Hernández, 2019; Natal; Oliveira, 2021; Rountree; Land, 1996; Soares, 2008; Trindade; Durante, 2019). No entanto, em relação ao sexo e vitimização, embora este tenha se mostrado um preditor importante do medo emocional, talvez a diferença por sexo não seja explicada apenas pela vitimização, mesmo que o número de mulheres vítimas tenha sido 4,4 % acima dos homens. A Tabela 7, abaixo, apresenta os valores absolutos da vitimização por diferentes crimes em recorte de gênero. Foram contabilizados apenas os casos de vitimização pessoal (a própria pessoa foi vítima) ou dupla (a própria pessoa e alguém próximo foram vítimas). Não constam as vítimas indiretas/vicárias, que se trata de pessoas que tiveram alguém próximo que foi vítima (n=158):
+As regressões reforçam achados de outros estudos que indicam que a vitimização, direta ou indireta, terá algum impacto sobre a insegurança (Dammert; Tobar, 2018; Farrall; Gray; Jackson, 2007; Hernández, 2019; Natal; Oliveira, 2021; Rountree; Land, 1996; Soares, 2008; Trindade; Durante, 2019). No entanto, em relação ao sexo e vitimização, embora este tenha se mostrado um preditor importante do medo emocional, talvez a diferença por sexo não seja explicada apenas pela vitimização, mesmo que o número de mulheres vítimas tenha sido 4,4 % acima dos homens. 
+
+A Tabela 7, abaixo, apresenta os valores absolutos da vitimização por diferentes crimes em recorte de gênero. Foram contabilizados apenas os casos de vitimização pessoal (a própria pessoa foi vítima) ou dupla (a própria pessoa e alguém próximo foram vítimas). Não constam as vítimas indiretas/vicárias, que se trata de pessoas que tiveram alguém próximo que foi vítima (n=158):
 
 Tabela 7 – Distribuição das frequências relacionadas a vitimização por diferentes crimes estratificados por gênero (n=626)
 
@@ -172,13 +183,20 @@ Em geral, as regressões indicam que as três dimensões do medo do crime são i
 
 Em seguida, apresenta-se os resultados e discussão das análises de Modelagem de Equações Estruturais. A etapa da MEE foi implementada para aprofundar os achados das regressões lineares de maneira a reforçá-los ou rechaçá-los. Considerando que o teste de independência dos resíduos (*Shapiro-Francia*) resultou um valor que nos leva a desconfiar do valor da significância do teste T para cada variável preditora, a MEE serve como uma avaliação de robustez dos resultados das regressões. Além disso, a MEE aplica a análise fatorial confirmatória e as regressões simultaneamente, mas sem depender dos ajustes de linearidade das variáveis dependentes de medo do crime. E de maneira geral, a MEE permite avançar na análise entre insegurança social e medo, apresentando, além do efeito direto, os mecanismos de atuação da insegurança sobre o medo. Com a MEE, testa-se os efeitos mediadores de variáveis contextuais sobre a insegurança e o impacto desta sobre o MDC, sendo estes os principais mecanismos causais do medo do crime a serem investigados e testados com a modelagem de equações estruturais.
 
-Foram produzidos três modelos respaldados por três esquemas teóricos diferentes, mas que, em comum, contam com a dimensão da insegurança social como preditor que afeta o MDC de maneira direta e/ou indireta. Um modelo foi nomeado ‘modelo V’, pois levou em consideração o trabalho de Valente, Pertegas e Olmos (2019). Outro, o ‘modelo N’, que utilizou como base a pesquisa de Natal e Oliveira (2021), e o terceiro é o modelo desenvolvido para esta tese, ‘modelo S’, o qual combina elementos dos dois anteriores. A seguir apresenta-se os diagramas de caminhos de cada MEE, com os valores dos coeficientes de regressão padronizados e as cargas fatoriais padronizadas nas setas dos construtos para as variáveis originais. Os construtos são ligados às variáveis originais que apresentaram cargas fatoriais iguais ou maiores que .500 nos três modelos. Também são apresentados os índices de ajuste de cada modelo.
+Foram produzidos três modelos respaldados por três esquemas teóricos diferentes, mas que, em comum, contam com a dimensão da insegurança social como preditor que hipoteticamente afeta o MDC, de maneira direta e/ou indireta. Um modelo foi nomeado ‘modelo V’, pois levou em consideração o trabalho de Valente, Pertegas e Olmos (2019). Esse modelo é diferente dos demais pois o construto “vulnerabilidade social” é composto por duas subdimensões um pouco mais simples que os demais, envolvendo menos itens. Além disso, os efeitos dos preditores são testados em relação ao construto “insegurança subjetiva”, e não em relação aos itens (subdimensões) que o compõem. 
+
+Outro, o ‘modelo N’, que utilizou como base a pesquisa de Natal e Oliveira (2021), é diferente dos demais pois os efeitos dos preditores, incluindo a Insegurança social, são testados em relação aos componentes do MDC individualmente, não havendo um construto latente de MDC.
+
+E o terceiro é o modelo desenvolvido para esta tese, ‘modelo S’, o qual combina elementos dos dois anteriores. Além de também conter a Insegurança social enquanto preditor, testa-se os efeitos diretos e indiretos da insegurança sobre o construto de MDC, além de testar as relações entre variáveis explicativas e os componentes elementares do medo (emocional, cognitivo e comportamental).
+
+A seguir apresenta-se os diagramas de caminhos de cada MEE, com os valores dos coeficientes de regressão padronizados e as cargas fatoriais padronizadas nas setas dos construtos para as variáveis originais. Os construtos são ligados às variáveis originais que apresentaram cargas fatoriais iguais ou maiores que .500 nos três modelos. Também são apresentados os índices de ajuste de cada modelo. 
 
 O primeiro é o modelo V, em que procurou-se reproduzir o modelo teórico original de Valente, Pertegas e Olmos (2019) da maneira mais próxima possível, já que a maior parte das variáveis que formam os construtos são as mesmas, assim como os caminhos estimados, conforme a Figura 1.
 
+
 Figura 1 – Diagrama de caminhos 1: Modelo V, Modelagem de Equação Estrutural com dados do estudo de vitimização realizado em Florianópolis, considerando o realizado por Valente, Pertegas e Olmos (2019)
 
-![](images/figura1.jpg)
+![](images/figura1.jpeg)
 
 O modelo V tem como objetivo apresentar a dimensão da vulnerabilidade social e seu efeito sobre a insegurança subjetiva, mediado por outras três dimensões: falta de coesão, preocupações no bairro, e vitimização. A vulnerabilidade social produz efeitos moderados sobre os três mediadores, mas com maior intensidade sobre preocupações no bairro. Quanto aos efeitos indiretos sobre a insegurança, destaca-se aqueles mediados por preocupações no bairro (.36). Via falta de coesão social no bairro o efeito indireto é menor (.10) e, via insegurança objetiva (vitimização), o efeito é quase insignificante (.04).
 
@@ -186,7 +204,7 @@ Nota-se que o efeito indireto da vulnerabilidade social sobre a insegurança sub
 
 Este resultado revela um quadro em que uma combinação específica de situações sociais em nível de bairro, como a presença de pessoas praticando crimes e contravenções, o risco de vitimização, e a percepção de comportamentos antissociais, servem como um amplificador dos efeitos sobre o MDC proveniente de outros elementos sociais. As percepções de comportamentos antissociais e de desordens, a partir do que foi proposto por Wilson e Kelling (1982), podem ser entendidas como catalisadores para o aumento do medo. As desordens podem amplificar a sensação de insegurança, corroborando a ideia de que o contexto de bairro é fundamental para entender como aspectos de vulnerabilidade social se manifestam no medo do crime (Trindade; Durante, 2019).
 
-Ao mesmo tempo, sentir-se desprezado pelos outros devido à renda ou local de moradia, e ter certo pessimismo quanto a própria condição financeira e de saúde no futuro breve são condições que, quando ‘encontram’ um contexto marcante de problemas no bairro, refletem na percepção das pessoas quanto ao medo do crime, levando as mesmas a expressarem maior e mais frequente insegurança e a mudarem suas rotinas devido a esse contexto de coisas.
+Ao mesmo tempo, sentir-se desprezado pelos outros devido à renda ou local de moradia, e ter certo pessimismo quanto a própria condição financeira e de saúde no futuro breve são condições que, quando ‘encontram’ um contexto marcante de problemas no bairro, refletem na percepção das pessoas quanto ao medo do crime, levando as mesmas a expressarem maior e mais frequente insegurança e a mudarem suas rotinas devido a esse contexto de coisas. Esses achados podem ser pensados através da chave teórica proposta por Castel (1998, 2005), sobre a articulação persistente entre precariedade econômica e instabilidade social. Os resultados apontaram os efeitos de vulnerabilidades sociais de grande amplitude sobre o MDC, enquanto Castel (2005) apontou para a manutenção de um “sentimento de insegurança” entre classes e pessoas “desprotegidas”. Assim, tem-se um quadro em que as inseguranças se retroalimentam, fazendo com que os efeitos atinjam inclusive as percepções de medo do crime.
 
 O fato que a vulnerabilidade social influencia fortemente a insegurança subjetiva, mediada por preocupações no bairro, pode ser interpretado a partir da teoria de Ulrich Beck sobre a “sociedade de risco”. Beck defende que, em sociedades modernas, a desigualdade se manifesta na distribuição dos riscos, sendo que classes mais baixas tendem a acumular maiores riscos, incluindo os riscos de insegurança pessoal e social (Beck, 2011). A vulnerabilidade social, como apontado no Modelo V, reflete essa distribuição desigual dos riscos, com grupos mais vulneráveis sendo mais expostos ao medo e à insegurança em função do contexto do bairro.Em suma, a análise valida achados da pesquisa que embasa o modelo V, em que a percepção de exclusão social e as ansiedades sobre a condição financeira e de saúde contribuem significativamente para o aumento do medo quando combinadas com certas preocupações no ambiente urbano (Valente; Pertegas; Olmos, 2019).
 
@@ -198,7 +216,7 @@ Outra diferença entre o modelo original de Natal e Oliveira (2021) e o modelo N
 
 Figura 2 – Diagrama de caminhos 2: Modelo N, Modelagem de Equação Estrutural com dados do estudo de vitimização realizado em Florianópolis considerando o realizado por Natal e Oliveira (2021), com inserção da dimensão Insegurança social
 
-![](images/figura2.jpg)
+![](images/figura2.jpeg)
 
 Este modelo prevê efeitos da coesão social, da percepção de desordens, da vitimização, e de variáveis sociodemográficas sobre os elementos do medo. O construto “insegurança social” foi adicionado enquanto um construto de segunda ordem, tal qual como consta no modelo V e constará no modelo S, porém, como se pode observar na Figura 2, foi pressuposto que a insegurança social teria efeito direto sobre cada um dos elementos do MDC, o que foi verificado apenas em relação ao elemento comportamental e ao cognitivo.
 
@@ -224,13 +242,13 @@ No Apêndice F pode ser analisado o *output* dos modelos com todas as relações
 
 Figura 3 – Diagrama de caminhos 3: Modelo S, Modelagem de Equação Estrutural com dados do estudo de vitimização realizado em Florianópolis, considerando relações diretas e indiretas da Insegurança Social e o Medo do Crime
 
-![](images/figura3.jpg)
+![](images/figura3.jpeg)
 
-O modelo reforça a importância da insegurança social em sua relação com o medo do crime, o que pode ser verificado pelos efeitos indiretos e direto. O efeito direto (.19) pode ser considerado fraco, mas ele existe em termos de magnitude e significância, algo que não foi verificado na pesquisa de Valente, Pertegas e Olmos (2019), em que o efeito direto em um modelo alternativo foi de apenas .09. Em nosso estudo, quando mediado pelo construto desorganização social, o efeito da insegurança é levemente ampliado (.23) e, quando mediado pela coesão social, seu efeito é bastante reduzido, quase totalmente neutralizado (.05).
+O modelo aponta a importância da insegurança social em sua relação com o medo do crime, o que pode ser verificado pelos efeitos indiretos e direto. O efeito direto (.19) pode ser considerado fraco, mas ele existe em termos de magnitude e significância, algo que não foi verificado na pesquisa de Valente, Pertegas e Olmos (2019), em que o efeito direto em um modelo alternativo foi de apenas .09. Em nosso estudo, quando mediado pelo construto desorganização social, o efeito da insegurança é levemente ampliado (.23) e, quando mediado pela coesão social, seu efeito é bastante reduzido, quase totalmente neutralizado (.05).
 
 Estes resultados, mais uma vez, reforçam a ideia de que a desorganização social pode ter um efeito amplificador sobre o medo do crime, refletindo o que foi proposto por Sampson e Raudenbush (2004) e encontrado em cidades brasileiras (Beato Filho; Silva, 2013; Costa; Durante, 2021). O contexto de desorganização social produziu os maiores efeitos sobre o medo (.65), seguido de vitimização (.28). Com o efeito da desorganização sendo duas vezes maior que o da vitimização sobre o medo, tem-se uma expressão do “medo de segundo grau”, tal qual descrito por Bauman (2008), o qual não se trata de um medo irracional e injustificável, mas sim de uma ansiedade que não tem relação com uma ameaça concreta. A percepção generalizada de vulnerabilidade e insegurança é amplificada por elementos ligados às desordens no bairro. Desordens estas que podem elevar o medo mais que qualquer outro fator isoladamente.
 
-A coesão social, por outro lado, tem um efeito negativo (-.13), revelando a capacidade relativa de laços de confiança e redes de apoio em reduzir o medo do crime no bairro (Scarborough *et al.*, 2010), ainda que este efeito seja relativamente fraco no contexto estudado, remetendo ao observado por Borges e Cano (2021). Essa ausência de correlação negativa robusta entre coesão e medo leva à reflexão sobre o que foi teorizado por Bauman (2009) onde, no quadro de modernidade líquida da sociedade contemporânea, os laços sociais tendem a se apresentar mais frágeis e até efêmeros, reduzindo a eficácia da coesão social em sua capacidade de reduzir o sentimento de insegurança. Além disso, é possível que a coesão perca efeito frente a outras circunstâncias societais que escaparam à pesquisa.
+A coesão social, por outro lado, tem um efeito negativo (-.13), revelando a capacidade relativa de laços de confiança e redes de apoio em reduzir o medo do crime no bairro (Scarborough et al., 2010), ainda que este efeito seja relativamente fraco no contexto estudado, remetendo ao observado por Borges e Cano (2021). Essa ausência de correlação negativa robusta entre coesão e medo leva à reflexão sobre o que foi teorizado por Bauman (2009) onde, no quadro de modernidade líquida da sociedade contemporânea, os laços sociais tendem a se apresentar mais frágeis e até efêmeros, reduzindo a eficácia da coesão social em sua capacidade de reduzir o sentimento de insegurança. Além disso, é possível que a coesão perca efeito frente a outras circunstâncias societais que escaparam à pesquisa.
 
 Além disso, características sociodemográficas mostraram-se capazes de predizer mais uma vez as dimensões elementares do MDC. A cor/raça (não branca) teve um efeito estatisticamente significante, porém negativo e quase inexistente sobre o elemento emocional (-0.8). O gênero também está relacionado ao aumento do medo, tornando evidente que ser mulher está correlacionado a uma maior insegurança ao andar sozinha pelas ruas do bairro, à noite (.14).
 

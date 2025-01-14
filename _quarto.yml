@@ -29,7 +29,7 @@ website:
       - href: intro.qmd
         text: Introdução
       - href: teoria.qmd
-        text: Teoria do medo do crime
+        text: Teorias do medo do crime
       - href: metodologia.qmd
         text: Metodologia
       - href: resultados.qmd
