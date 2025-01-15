@@ -40,6 +40,8 @@ website:
         text: Referências
       - href: apend.qmd
         text: Apêndices
+      - href: tese.qmd
+        text: Tese
 
 format:
   html:

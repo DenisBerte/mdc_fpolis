@@ -1,0 +1,9 @@
+---
+title: "Tese"
+---
+
+## Visualizar /baixar o PDF
+
+<iframe src="tese.pdf" width="100%" height="500px">
+
+</iframe>
