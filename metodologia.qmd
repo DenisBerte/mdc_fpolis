@@ -1,8 +1,13 @@
 ---
 title: "Metodologia"
 ---
+<style>
+body {
+  text-align: justify;
+}
+</style>
 
-Para analisar a relação entre medo do crime e insegurança social de uma amostra da população adulta residente em Florianópolis/SC, este estudo apoiou-se em metodologia de *survey*. Foram realizadas 626 entrevistam que integram a base de dados final, e todo o trabalho de coleta de dados em campo se deu entre 19/11/2019 e 16/12/2019. Neste capítulo serão apresentados detalhes metodológicos que envolvem o desenho da pesquisa, incluindo, nessa ordem: metodologia do questionário, da amostragem e coleta de dados; do processo de análise e operacionalização das variáveis; e das análises multivariadas. Em termos gerais, trata-se de uma pesquisa quantitativa orientada pela metodologia de *survey*, com amostragem probabilística de característica interseccional, e os dados coletados foram analisados através de técnicas multivariadas de análise. 
+Para analisar a relação entre medo do crime e insegurança social de uma amostra da população adulta residente em Florianópolis/SC, este estudo apoiou-se em metodologia de *survey*. Foram realizadas 626 entrevistas que integram a base de dados final, e todo o trabalho de coleta de dados em campo se deu entre 19/11/2019 e 16/12/2019. Neste capítulo serão apresentados detalhes metodológicos que envolvem o desenho da pesquisa, incluindo, nessa ordem: metodologia do questionário, da amostragem e coleta de dados; do processo de análise e operacionalização das variáveis; e das análises multivariadas. Em termos gerais, trata-se de uma pesquisa quantitativa orientada pela metodologia de *survey*, com amostragem probabilística de característica interseccional, e os dados coletados foram analisados através de técnicas multivariadas de análise. 
 
 Conforme já apontado, esta pesquisa analisou o medo do crime de uma amostra da população de Florianópolis/SC, integrando ao estudo um elemento não tão recente, mas pouco usual sobre as possíveis explicações do medo do crime no Brasil e que, neste estudo, foi tratado como uma medida de “insegurança social” (Valente; Pertegas, 2018). A estrutura da tese envolveu verificar a significância e mensurar a magnitude com a qual os componentes de insegurança social utilizados afetam as medidas desagregadas de medo do crime, em cada uma de suas dimensões elementares (emocional, cognitiva, comportamental). Em seguida, verificar se essas relações ocorrem de maneira direta ou indireta, revelando a mediação de aspectos ambientais na definição dos caminhos e no impacto da insegurança sobre o medo. Espera-se ao final deste capítulo ter apontado em detalhes de que maneira isso foi realizado empiricamente.
 
@@ -32,7 +37,7 @@ f\. Entrevistadores foram orientados a realizar uma pergunta aberta sobre a ‘o
 
 ## COLETA DE DADOS E AMOSTRAGEM
 
-A coleta de dados foi realizada através de entrevistas face a face (método *Computer Assisted Personal Interviewing* (CAPI), com questionário programado em tablets ou celulares, com softwareespecífico para pesquisas com *survey*. O software opera sem a necessidade de conexão com internet, registrando os dados em tempo real, inclusive a localização geográfica de cada entrevista em um mapa, sua duração/horário de início e fim, etc. A duração média das entrevistas foi de 12 minutos, e os entrevistadores utilizaram crachás de estudantes da Universidade Federal de Santa Catarina (UFSC) para facilitar a abordagem e apresentação aos respondentes.
+A coleta de dados foi realizada através de entrevistas face a face (método *Computer Assisted Personal Interviewing* (CAPI), com questionário programado em tablets ou celulares, com software específico para pesquisas com *survey*. O software opera sem a necessidade de conexão com internet, registrando os dados em tempo real, inclusive a localização geográfica de cada entrevista em um mapa, sua duração/horário de início e fim, etc. A duração média das entrevistas foi de 12 minutos, e os entrevistadores utilizaram crachás de estudantes da Universidade Federal de Santa Catarina (UFSC) para facilitar a abordagem e apresentação aos respondentes.
 
 A equipe foi composta de dois entrevistadores, e em apenas um dia mais uma pessoa foi designada para o campo, nos demais, apenas dois. A ampla maioria das entrevistas foi realizada por uma pessoa com anos de experiência em entrevista de pesquisas de opinião de cunho sociopolítico e mercadológico. Definiu-se previamente que a coleta deveria ser realizada em até 30 dias corridos a partir do primeiro dia.
 
